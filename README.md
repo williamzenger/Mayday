@@ -9,3 +9,8 @@ My favorite band is Mayday and I love most of their songs. I has spent a happy a
 To be specific, I love the lyrics of all songs.
 
 I want to know what these songs are talking about which is the main reason I started this project.
+
+The folowing are some general results for your reference:
+![](https://i.loli.net/2019/05/16/5cdcfa1ccf55320902.png)
+![](https://i.loli.net/2019/05/16/5cdcfa845014768747.png)
+![](https://i.loli.net/2019/05/16/5cdcfa980108e64756.png)
